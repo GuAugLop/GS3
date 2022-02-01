@@ -21,3 +21,8 @@ Inicie o aplicativo no Android
 ```bash
 npx cap open android
 ```
+Inicie o aplicativo na Web
+```bash
+ionic serve
+```
+
