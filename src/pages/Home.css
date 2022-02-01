@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  max-width: 720px;
+}
+
+.photoButton {
+  position: fixed;
+  bottom: 5vw;
+  right: 5vw;
+  width: 70px;
+  height: 70px;
+  border-radius: 100px;
+
+  z-index: 99;
+
+  background-color: #349eeb;
+}

@@ -1,6 +1,6 @@
 {
-	"appId": "io.ionic.starter",
-	"appName": "cameraapp",
-	"webDir": "build",
-	"bundledWebRuntime": false
+  "appId": "io.gs3.camera",
+  "appName": "cameraapp",
+  "webDir": "build",
+  "bundledWebRuntime": false
 }

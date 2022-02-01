@@ -1,0 +1,22 @@
+.emptyText{
+    width: 100%;
+    text-align: center;
+
+    color: #a3a3a3;
+    line-height: 30px;
+}
+
+.buttonIcon{
+    width: 35px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #fff;
+    border-radius: 50%;
+    background: var(--ion-color-primary);
+
+
+    padding: 10px 15px;
+    display: inline;
+}
